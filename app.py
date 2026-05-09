@@ -16,9 +16,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# ═══════════════════════════════════════════════════════════════
-# GLOBAL CSS
-# ═══════════════════════════════════════════════════════════════
+
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,700;1,400&family=Orbitron:wght@700;900&family=Inter:wght@400;600&display=swap');
