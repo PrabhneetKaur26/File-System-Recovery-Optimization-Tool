@@ -114,3 +114,4 @@ class PerformanceMonitor:
             "total_reads": len(self.read_times),
             "total_writes": len(self.write_times),
         }
+#it optimizzes disk access by caching recently read blocks and analyzing file fragmentation to improve read/write performance. The LRUCache class implements a simple least recently used cache, while the FragmentationAnalyzer class provides insights into how files are stored on disk. The PerformanceMonitor class tracks read/write latency to help identify performance bottlenecks.
