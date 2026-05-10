@@ -61,7 +61,7 @@ py -m streamlit run app.py
 ---
 
 
-## 👨‍💻 Technologies Used
+## Technologies Used
 
 - **Python 3** — Main language
 - **Streamlit** — Interactive web dashboard
